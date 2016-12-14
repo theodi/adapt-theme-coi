@@ -1,10 +1,10 @@
 {
     "name": "adapt-theme-coi",
-    "repository": "git@github.com:davetaz/adapt-theme-coi.git",
+    "repository": "git@github.com:theodi/adapt-theme-coi.git",
     "framework": "^2.0.0",
     "version": "0.2.0",
-    "homepage": "https://github.com/davetaz/adapt-theme-coi",
-    "issues": "https://github.com/davetaz/adapt-theme-coi/issues",
+    "homepage": "https://github.com/theodi/adapt-theme-coi",
+    "issues": "https://github.com/theodi/adapt-theme-coi/issues",
     "displayName": "COI",
     "theme": "COI",
     "description": "A custom theme for COI modules",
