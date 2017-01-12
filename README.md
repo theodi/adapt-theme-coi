@@ -14,6 +14,8 @@ The theme is ideally suited to alternative coloured blocks (one coloured, one wh
 
 It provides some Block classes (add these to the block) to control this:
 
+Colors are outlined in the color-palette.png file.
+
 Add to block (classes)
 
 * inverted
