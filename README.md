@@ -6,9 +6,9 @@ This theme is adapted from the ODI adapt theme to match the Caribbean Open Data 
 
 This theme provides a maximum width theme that is responsive over mobile and desktop themes.
 
-To use this theme here are a few tip.
+To use this theme here are a few tips.
 
-Avoid content in Articles and Blocks. Add content to components only.
+Avoid content (e.g. text) in Articles and Blocks (set all the headings to a blank space ' '). Add content to components only.
 
 The theme is ideally suited to alternative coloured blocks (one coloured, one white, one coloured etc)
 
@@ -26,3 +26,4 @@ Add to block (classes)
 	A dark color for the footer block
 * section-banner
 	Add this to a block to make a thin banner block and reduce top and bottom margins
+	(used in ODI modules to split content from assessment)
